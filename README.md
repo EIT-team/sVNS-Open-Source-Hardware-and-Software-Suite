@@ -66,7 +66,7 @@ https://github.com/EIT-team/sVNS_GUI
            ▼
 ┌────────────────────────┐
 │ Implantable Stimulator │
-│   (EFM8 + 16 channels) │
+│      (15 channels)     │
 └──────────┬─────────────┘
            │
            ▼
