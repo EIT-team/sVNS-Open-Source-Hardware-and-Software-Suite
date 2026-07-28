@@ -14,7 +14,7 @@ The project consists of four main components:
 ## Repositories
 
 ### PCB Design
-**sVNS_16chan_EAGLE**
+**sVNS_15chan_EAGLE**
 
 Hardware design files, schematics, board layout, and manufacturing files.
 
