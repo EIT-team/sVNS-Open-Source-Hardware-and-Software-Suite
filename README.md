@@ -3,7 +3,7 @@ This repository serves as an index for the open-source hardware and software dev
 
 The project consists of four main components:
 
-| **PCB Design** | Hardware design of the implantable 16-channel stimulator in Autodesk EAGLE.
+| **PCB Design** | Hardware design of the implantable 15-channel stimulator in Autodesk EAGLE.
 
 | **Device Firmware** | Firmware running on the implantable stimulator (Silicon Labs EFM8).
 
