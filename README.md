@@ -3,7 +3,9 @@ This repository serves as an index for the open-source hardware and software dev
 
 The project consists of four main components:
 
-| **PCB Design** | Hardware design of the implantable 15-channel stimulator in Autodesk EAGLE.
+| **PCB Design** | Hardware design of the implantable 15-channel stimulator (circular formfactor) in KiCad.
+
+| **PCB Design (legacy)** | Hardware design of the implantable 15-channel stimulator (first iteration) and sVNS clinical system in Autodesk EAGLE.
 
 | **Device Firmware** | Firmware running on the implantable stimulator (Silicon Labs EFM8).
 
@@ -13,7 +15,15 @@ The project consists of four main components:
 
 ## Repositories
 
-### PCB Design
+### PCB Design (implant)
+**sVNS_15chan_circular_antenna_board**
+Hardware design files in KiCad, schematics, calculations, layout, and manufacturing files.
+
+https://github.com/EIT-team/sVNS_circular_implant_kicad
+
+---
+
+### PCB Design (legacy, clinical system)
 **sVNS_15chan_EAGLE**
 
 Hardware design files, schematics, board layout, and manufacturing files.
